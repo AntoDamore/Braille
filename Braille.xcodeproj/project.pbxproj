@@ -14,6 +14,31 @@
 		B0150B372AD29F55008F9FEA /* BrailleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0150B362AD29F55008F9FEA /* BrailleTests.swift */; };
 		B0150B412AD29F55008F9FEA /* BrailleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0150B402AD29F55008F9FEA /* BrailleUITests.swift */; };
 		B0150B432AD29F55008F9FEA /* BrailleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0150B422AD29F55008F9FEA /* BrailleUITestsLaunchTests.swift */; };
+		B0150B502AD2A4F4008F9FEA /* ContiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0150B4F2AD2A4F4008F9FEA /* ContiView.swift */; };
+		B0150B522AD2A508008F9FEA /* CarteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0150B512AD2A508008F9FEA /* CarteView.swift */; };
+		B0150B542AD2A513008F9FEA /* OperazioniView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0150B532AD2A513008F9FEA /* OperazioniView.swift */; };
+		B0150B562AD2A528008F9FEA /* ParlaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0150B552AD2A528008F9FEA /* ParlaView.swift */; };
+		B0150B582AD2A533008F9FEA /* AltroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0150B572AD2A533008F9FEA /* AltroView.swift */; };
+		B0150B632AD2B486008F9FEA /* Lexend-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B0150B5E2AD2B2EC008F9FEA /* Lexend-Black.ttf */; };
+		B0150B642AD2B4D4008F9FEA /* Lexend-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B0150B602AD2B2EC008F9FEA /* Lexend-Bold.ttf */; };
+		B0150B652AD2B4D6008F9FEA /* Lexend-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B0150B5B2AD2B2EC008F9FEA /* Lexend-ExtraBold.ttf */; };
+		B0150B662AD2B4D9008F9FEA /* Lexend-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B0150B592AD2B2EB008F9FEA /* Lexend-ExtraLight.ttf */; };
+		B0150B672AD2B4DB008F9FEA /* Lexend-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B0150B5D2AD2B2EC008F9FEA /* Lexend-Light.ttf */; };
+		B0150B682AD2B4DE008F9FEA /* Lexend-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B0150B5C2AD2B2EC008F9FEA /* Lexend-Medium.ttf */; };
+		B0150B692AD2B4E1008F9FEA /* Lexend-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B0150B5A2AD2B2EC008F9FEA /* Lexend-Regular.ttf */; };
+		B0150B6A2AD2B4E4008F9FEA /* Lexend-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B0150B5F2AD2B2EC008F9FEA /* Lexend-SemiBold.ttf */; };
+		B0150B6B2AD2B4E6008F9FEA /* Lexend-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B0150B612AD2B2EC008F9FEA /* Lexend-Thin.ttf */; };
+		B054B7692AD2F04E007D4668 /* CecitàParziale.swift in Sources */ = {isa = PBXBuildFile; fileRef = B054B7682AD2F04E007D4668 /* CecitàParziale.swift */; };
+		B054B7712AD2FCFF007D4668 /* ViewProva.swift in Sources */ = {isa = PBXBuildFile; fileRef = B054B7702AD2FCFF007D4668 /* ViewProva.swift */; };
+		B054B7772AD30ECC007D4668 /* OnBoardingSecond.swift in Sources */ = {isa = PBXBuildFile; fileRef = B054B7762AD30ECC007D4668 /* OnBoardingSecond.swift */; };
+		B0A0BA482AD4061C0087D4AF /* CecitàTotale.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0A0BA472AD4061C0087D4AF /* CecitàTotale.swift */; };
+		B0A0BA4A2AD4068C0087D4AF /* ContiCarteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0A0BA492AD4068C0087D4AF /* ContiCarteView.swift */; };
+		B0A0BA4C2AD407910087D4AF /* AiutoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0A0BA4B2AD407910087D4AF /* AiutoView.swift */; };
+		B0A0BA4E2AD40CB40087D4AF /* ContiViewCiechi.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0A0BA4D2AD40CB40087D4AF /* ContiViewCiechi.swift */; };
+		B0A0BA502AD40E900087D4AF /* SaldoMovimentiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0A0BA4F2AD40E900087D4AF /* SaldoMovimentiView.swift */; };
+		B0A0BA522AD40FA40087D4AF /* SaldoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0A0BA512AD40FA40087D4AF /* SaldoView.swift */; };
+		B0A0BA542AD410310087D4AF /* SaldoViewBlur.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0A0BA532AD410310087D4AF /* SaldoViewBlur.swift */; };
+		B0A0BA562AD4114F0087D4AF /* GifView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0A0BA552AD4114F0087D4AF /* GifView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +69,32 @@
 		B0150B3C2AD29F55008F9FEA /* BrailleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BrailleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0150B402AD29F55008F9FEA /* BrailleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrailleUITests.swift; sourceTree = "<group>"; };
 		B0150B422AD29F55008F9FEA /* BrailleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrailleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B0150B4F2AD2A4F4008F9FEA /* ContiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContiView.swift; sourceTree = "<group>"; };
+		B0150B512AD2A508008F9FEA /* CarteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarteView.swift; sourceTree = "<group>"; };
+		B0150B532AD2A513008F9FEA /* OperazioniView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OperazioniView.swift; sourceTree = "<group>"; };
+		B0150B552AD2A528008F9FEA /* ParlaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParlaView.swift; sourceTree = "<group>"; };
+		B0150B572AD2A533008F9FEA /* AltroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AltroView.swift; sourceTree = "<group>"; };
+		B0150B592AD2B2EB008F9FEA /* Lexend-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lexend-ExtraLight.ttf"; sourceTree = "<group>"; };
+		B0150B5A2AD2B2EC008F9FEA /* Lexend-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lexend-Regular.ttf"; sourceTree = "<group>"; };
+		B0150B5B2AD2B2EC008F9FEA /* Lexend-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lexend-ExtraBold.ttf"; sourceTree = "<group>"; };
+		B0150B5C2AD2B2EC008F9FEA /* Lexend-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lexend-Medium.ttf"; sourceTree = "<group>"; };
+		B0150B5D2AD2B2EC008F9FEA /* Lexend-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lexend-Light.ttf"; sourceTree = "<group>"; };
+		B0150B5E2AD2B2EC008F9FEA /* Lexend-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lexend-Black.ttf"; sourceTree = "<group>"; };
+		B0150B5F2AD2B2EC008F9FEA /* Lexend-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lexend-SemiBold.ttf"; sourceTree = "<group>"; };
+		B0150B602AD2B2EC008F9FEA /* Lexend-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lexend-Bold.ttf"; sourceTree = "<group>"; };
+		B0150B612AD2B2EC008F9FEA /* Lexend-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lexend-Thin.ttf"; sourceTree = "<group>"; };
+		B0150B622AD2B369008F9FEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		B054B7682AD2F04E007D4668 /* CecitàParziale.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CecitàParziale.swift"; sourceTree = "<group>"; };
+		B054B7702AD2FCFF007D4668 /* ViewProva.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewProva.swift; sourceTree = "<group>"; };
+		B054B7762AD30ECC007D4668 /* OnBoardingSecond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingSecond.swift; sourceTree = "<group>"; };
+		B0A0BA472AD4061C0087D4AF /* CecitàTotale.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CecitàTotale.swift"; sourceTree = "<group>"; };
+		B0A0BA492AD4068C0087D4AF /* ContiCarteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContiCarteView.swift; sourceTree = "<group>"; };
+		B0A0BA4B2AD407910087D4AF /* AiutoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AiutoView.swift; sourceTree = "<group>"; };
+		B0A0BA4D2AD40CB40087D4AF /* ContiViewCiechi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContiViewCiechi.swift; sourceTree = "<group>"; };
+		B0A0BA4F2AD40E900087D4AF /* SaldoMovimentiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaldoMovimentiView.swift; sourceTree = "<group>"; };
+		B0A0BA512AD40FA40087D4AF /* SaldoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaldoView.swift; sourceTree = "<group>"; };
+		B0A0BA532AD410310087D4AF /* SaldoViewBlur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaldoViewBlur.swift; sourceTree = "<group>"; };
+		B0A0BA552AD4114F0087D4AF /* GifView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,9 +145,17 @@
 		B0150B242AD29F53008F9FEA /* Braille */ = {
 			isa = PBXGroup;
 			children = (
+				B0150B622AD2B369008F9FEA /* Info.plist */,
 				B0150B252AD29F53008F9FEA /* BrailleApp.swift */,
+				B054B7762AD30ECC007D4668 /* OnBoardingSecond.swift */,
 				B0150B272AD29F53008F9FEA /* ContentView.swift */,
+				B054B7682AD2F04E007D4668 /* CecitàParziale.swift */,
+				B020C5512AD44672007E2AA3 /* Cecità Totale */,
+				B0A0BA552AD4114F0087D4AF /* GifView.swift */,
+				B054B76D2AD2F7A0007D4668 /* Tab Bar Views */,
+				B054B7702AD2FCFF007D4668 /* ViewProva.swift */,
 				B0150B292AD29F55008F9FEA /* Assets.xcassets */,
+				B054B76C2AD2F756007D4668 /* Fonts */,
 				B0150B2B2AD29F55008F9FEA /* Preview Content */,
 			);
 			path = Braille;
@@ -125,6 +184,49 @@
 				B0150B422AD29F55008F9FEA /* BrailleUITestsLaunchTests.swift */,
 			);
 			path = BrailleUITests;
+			sourceTree = "<group>";
+		};
+		B020C5512AD44672007E2AA3 /* Cecità Totale */ = {
+			isa = PBXGroup;
+			children = (
+				B0A0BA472AD4061C0087D4AF /* CecitàTotale.swift */,
+				B0A0BA4B2AD407910087D4AF /* AiutoView.swift */,
+				B0A0BA492AD4068C0087D4AF /* ContiCarteView.swift */,
+				B0A0BA4D2AD40CB40087D4AF /* ContiViewCiechi.swift */,
+				B0A0BA4F2AD40E900087D4AF /* SaldoMovimentiView.swift */,
+				B0A0BA512AD40FA40087D4AF /* SaldoView.swift */,
+				B0A0BA532AD410310087D4AF /* SaldoViewBlur.swift */,
+			);
+			name = "Cecità Totale";
+			path = "Cecità Totale";
+			sourceTree = "<group>";
+		};
+		B054B76C2AD2F756007D4668 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				B0150B5E2AD2B2EC008F9FEA /* Lexend-Black.ttf */,
+				B0150B602AD2B2EC008F9FEA /* Lexend-Bold.ttf */,
+				B0150B5B2AD2B2EC008F9FEA /* Lexend-ExtraBold.ttf */,
+				B0150B592AD2B2EB008F9FEA /* Lexend-ExtraLight.ttf */,
+				B0150B5D2AD2B2EC008F9FEA /* Lexend-Light.ttf */,
+				B0150B5C2AD2B2EC008F9FEA /* Lexend-Medium.ttf */,
+				B0150B5A2AD2B2EC008F9FEA /* Lexend-Regular.ttf */,
+				B0150B5F2AD2B2EC008F9FEA /* Lexend-SemiBold.ttf */,
+				B0150B612AD2B2EC008F9FEA /* Lexend-Thin.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		B054B76D2AD2F7A0007D4668 /* Tab Bar Views */ = {
+			isa = PBXGroup;
+			children = (
+				B0150B4F2AD2A4F4008F9FEA /* ContiView.swift */,
+				B0150B512AD2A508008F9FEA /* CarteView.swift */,
+				B0150B532AD2A513008F9FEA /* OperazioniView.swift */,
+				B0150B552AD2A528008F9FEA /* ParlaView.swift */,
+				B0150B572AD2A533008F9FEA /* AltroView.swift */,
+			);
+			path = "Tab Bar Views";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,6 +333,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B0150B692AD2B4E1008F9FEA /* Lexend-Regular.ttf in Resources */,
+				B0150B672AD2B4DB008F9FEA /* Lexend-Light.ttf in Resources */,
+				B0150B662AD2B4D9008F9FEA /* Lexend-ExtraLight.ttf in Resources */,
+				B0150B632AD2B486008F9FEA /* Lexend-Black.ttf in Resources */,
+				B0150B682AD2B4DE008F9FEA /* Lexend-Medium.ttf in Resources */,
+				B0150B6A2AD2B4E4008F9FEA /* Lexend-SemiBold.ttf in Resources */,
+				B0150B6B2AD2B4E6008F9FEA /* Lexend-Thin.ttf in Resources */,
+				B0150B642AD2B4D4008F9FEA /* Lexend-Bold.ttf in Resources */,
+				B0150B652AD2B4D6008F9FEA /* Lexend-ExtraBold.ttf in Resources */,
 				B0150B2D2AD29F55008F9FEA /* Preview Assets.xcassets in Resources */,
 				B0150B2A2AD29F55008F9FEA /* Assets.xcassets in Resources */,
 			);
@@ -257,8 +368,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B0A0BA522AD40FA40087D4AF /* SaldoView.swift in Sources */,
+				B0A0BA542AD410310087D4AF /* SaldoViewBlur.swift in Sources */,
+				B0A0BA502AD40E900087D4AF /* SaldoMovimentiView.swift in Sources */,
+				B054B7692AD2F04E007D4668 /* CecitàParziale.swift in Sources */,
+				B054B7772AD30ECC007D4668 /* OnBoardingSecond.swift in Sources */,
+				B0150B522AD2A508008F9FEA /* CarteView.swift in Sources */,
+				B0A0BA562AD4114F0087D4AF /* GifView.swift in Sources */,
+				B0A0BA4A2AD4068C0087D4AF /* ContiCarteView.swift in Sources */,
 				B0150B282AD29F53008F9FEA /* ContentView.swift in Sources */,
 				B0150B262AD29F53008F9FEA /* BrailleApp.swift in Sources */,
+				B0A0BA4E2AD40CB40087D4AF /* ContiViewCiechi.swift in Sources */,
+				B0150B562AD2A528008F9FEA /* ParlaView.swift in Sources */,
+				B0150B502AD2A4F4008F9FEA /* ContiView.swift in Sources */,
+				B054B7712AD2FCFF007D4668 /* ViewProva.swift in Sources */,
+				B0150B542AD2A513008F9FEA /* OperazioniView.swift in Sources */,
+				B0A0BA4C2AD407910087D4AF /* AiutoView.swift in Sources */,
+				B0150B582AD2A533008F9FEA /* AltroView.swift in Sources */,
+				B0A0BA482AD4061C0087D4AF /* CecitàTotale.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -422,9 +549,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Braille/Preview Content\"";
-				DEVELOPMENT_TEAM = HCD64BL62X;
+				DEVELOPMENT_TEAM = 9TJL6Q93M5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Braille/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -451,9 +579,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Braille/Preview Content\"";
-				DEVELOPMENT_TEAM = HCD64BL62X;
+				DEVELOPMENT_TEAM = 9TJL6Q93M5;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Braille/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
