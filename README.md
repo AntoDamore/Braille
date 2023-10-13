@@ -1,6 +1,6 @@
 **Progetto MERAS Team**
 
-<img width="175" height="100" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/0579aa5a-5fa4-4c4f-9bab-564f44fb17ba">
+<img width="175" height="200" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/0579aa5a-5fa4-4c4f-9bab-564f44fb17ba">
 
 
 <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/BrailleBankApp/assets/92515082/e48dfc69-4ae5-49d2-8c42-7c61248aa700">
