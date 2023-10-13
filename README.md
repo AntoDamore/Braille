@@ -52,21 +52,14 @@
 
 3. **Utenti con Cecità**: Questa versione è progettata per gli utenti non vedenti o ipovedenti gravi. L'app include una funzione innovativa basata sulla tecnologia Braille tramite vibrazione. Gli utenti possono esplorare l'interfaccia utente toccando lo schermo, e l'app risponderà con feedback tattile attraverso vibrazioni che consentono di "sentire" le informazioni visualizzate, compresi i saldi e le transazioni.
 
-   <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/5155102a-3e2b-4cfd-a2db-4e475094d196
-">
-   <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/0351595d-85aa-4c80-85ef-8bf2019855c4
-">
- <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/f960a71d-ded3-440c-8b8d-33a7fb867b6c
-">
- <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/47352fbd-4e93-47a1-b7c2-6dcfb786e658
-">
- <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/37a1fd4b-eafd-4dc1-a4c9-dd559bb10e20
-">
- <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/a3352bff-8673-40de-a43b-cd5ac45b9e82
-">
+   <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/5155102a-3e2b-4cfd-a2db-4e475094d196">
+   <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/0351595d-85aa-4c80-85ef-8bf2019855c4">
+ <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/f960a71d-ded3-440c-8b8d-33a7fb867b6c">
+ <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/47352fbd-4e93-47a1-b7c2-6dcfb786e658">
+ <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/37a1fd4b-eafd-4dc1-a4c9-dd559bb10e20">
+ <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/a3352bff-8673-40de-a43b-cd5ac45b9e82">
 
- <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/c1d6ac59-5b67-4280-97f2-be1bcbf850d7
-">
+ <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/c1d6ac59-5b67-4280-97f2-be1bcbf850d7">
 
 
 
