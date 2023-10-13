@@ -53,13 +53,6 @@
 3. **Utenti con Cecità**: Questa versione è progettata per gli utenti non vedenti o ipovedenti gravi. L'app include una funzione innovativa basata sulla tecnologia Braille tramite vibrazione. Gli utenti possono esplorare l'interfaccia utente toccando lo schermo, e l'app risponderà con feedback tattile attraverso vibrazioni che consentono di "sentire" le informazioni visualizzate, compresi i saldi e le transazioni.
 
 
-![Homepage-1](https://github.com/AntoDamore/Braille/assets/92515082/a26da5e6-b5e5-490f-9eea-d06fb72ff0b6)
-![Homepage-2](https://github.com/AntoDamore/Braille/assets/92515082/77ccdb27-2497-46e6-b90b-2cff4603e458)
-![Homepage-3](https://github.com/AntoDamore/Braille/assets/92515082/6be3e7b8-6773-470b-942f-d82878bcb639)
-![Homepage-4](https://github.com/AntoDamore/Braille/assets/92515082/599b883f-9a51-4c73-9e2f-cb397d4fa37b)
-![Homepage-5](https://github.com/AntoDamore/Braille/assets/92515082/1da0e880-c280-4626-8031-c132497f03f4)
-![Homepage-6](https://github.com/AntoDamore/Braille/assets/92515082/8bcb5b8a-dc2b-4ae4-a6c9-8a3b856e719a)
-
    <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/f7d537de-dba6-4bf4-ade5-5f8791453530">
    <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/0351595d-85aa-4c80-85ef-8bf2019855c4">
  <img width="175" alt="Screenshot 2022-03-14 at 18 32 58" src="https://github.com/AntoDamore/Braille/assets/92515082/f960a71d-ded3-440c-8b8d-33a7fb867b6c">
@@ -77,7 +70,7 @@
 
 - **Navigazione Intuitiva**: L'app è stata progettata con l'usabilità in mente, consentendo agli utenti di accedere facilmente ai loro conti, controllare i saldi, visualizzare le transazioni e effettuare pagamenti.
 
-- **Supporto per Comandi Vocali**: Gli utenti con ipovisione possono utilizzare comandi vocali per navigare nell'app in modo più efficiente.
+- **Supporto per Comandi Vocali**: Gli utenti con ipovisione possono permettere al voice over di leggere il contenuto all'interno delle schermate.
 
 - **Tecnologia Braille tramite Vibrazione**: Questa funzionalità innovativa consente agli utenti non vedenti di esplorare lo schermo tramite vibrazioni per leggere le informazioni visualizzate, inclusi i saldi dei conti.
 
